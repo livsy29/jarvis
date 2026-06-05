@@ -22,16 +22,16 @@ header-settings = НАЛАШТУВАННЯ
 search-placeholder = Введіть команду вручну або скажіть «Джарвіс» ...
 
 # ### MAIN PAGE
-assistant-not-running = АСИСТЕНТ НЕ ЗАПУЩЕНО
+assistant-not-running = АСИСТЕНТ НЕ ЗАПУЩЕНИЙ
 assistant-offline-hint = Налаштувати його можна не запускаючи.
 btn-start = ЗАПУСТИТИ
 btn-starting = ЗАПУСК...
 
 # ### STATUS
-status-disconnected = Відключено
-status-standby = Очікування
+status-disconnected = Відключений
+status-standby = Очікую
 status-listening = Слухаю...
-status-processing = Обробка...
+status-processing = Обробляю...
 
 # ### STATS
 stats-microphone = МІКРОФОН
@@ -101,7 +101,7 @@ settings-vosk-model = Модель розпізнавання мовлення (
 settings-vosk-model-desc =
     Виберіть модель Vosk для розпізнавання мовлення.
     Ви можете завантажити моделі тут: https://alphacephei.com/vosk/models
-settings-models-not-found = Моделі не знайдено
+settings-models-not-found = Моделі не знайдені
 settings-models-hint = Помістіть моделі Vosk в папку resources/vosk
 
 # settings - openai
@@ -125,8 +125,8 @@ error-not-found = Не знайдено
 # ### NOTIFICATIONS
 notification-saved = Налаштування збережено!
 notification-error = Помилка
-notification-assistant-started = Асистент запущено
-notification-assistant-stopped = Асистент зупинено
+notification-assistant-started = Асистент запущений
+notification-assistant-stopped = Асистент зупинений
 
 # SLOTS EXTRACTION
 settings-slot-engine = Витяг параметрів
@@ -138,6 +138,6 @@ settings-gliner-model-desc =
 settings-gliner-models-hint = Моделі GLiNER не знайдено.
 
 # ETC
-search-error-not-running = Асистент не запущено
+search-error-not-running = Асистент не запущений
 search-error-failed = Не вдалося виконати команду
 settings-no-voices = Голоси не знайдено
